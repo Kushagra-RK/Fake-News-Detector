@@ -1,0 +1,5 @@
+{
+  "name": "Fake News Detector",
+  "description": "An AI-powered application that verifies news claims by scanning the web using Google Search Grounding to provide truthfulness scores and relevant sources.",
+  "requestFramePermissions": []
+}
